@@ -5,14 +5,14 @@ using CompilerSupportLibraries_jll
 using METIS_jll
 using SCOTCH_jll
 using Hwloc_jll
-using OpenBLAS32_jll
+using libblastrampoline_jll
 JLLWrappers.@generate_wrapper_header("PaStiX")
 JLLWrappers.@declare_library_product(libpastix, "@rpath/libpastix.dylib")
 JLLWrappers.@declare_library_product(libpastixf, "@rpath/libpastixf.dylib")
 JLLWrappers.@declare_library_product(libspm, "@rpath/libspm.dylib")
 JLLWrappers.@declare_library_product(libspmf, "@rpath/libspmf.dylib")
 function __init__()
-    JLLWrappers.@generate_init_header(CompilerSupportLibraries_jll, METIS_jll, SCOTCH_jll, Hwloc_jll, OpenBLAS32_jll)
+    JLLWrappers.@generate_init_header(CompilerSupportLibraries_jll, METIS_jll, SCOTCH_jll, Hwloc_jll, libblastrampoline_jll)
     JLLWrappers.@init_library_product(
         libpastix,
         "lib/libpastix.dylib",

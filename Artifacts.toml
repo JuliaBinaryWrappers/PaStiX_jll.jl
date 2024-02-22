@@ -1,309 +1,309 @@
 [[PaStiX]]
 arch = "aarch64"
-git-tree-sha1 = "e8b56ca956a0b1f91aed7b62cb682497244f93a0"
+git-tree-sha1 = "1bf940d2489fc70fbb28498cf4a68bbd91f681d7"
 libgfortran_version = "5.0.0"
 os = "macos"
 
     [[PaStiX.download]]
-    sha256 = "a66a7a20b3d970f9737d1612a4e44b9f231676c2247cbe69f8331e772e79dfe9"
-    url = "https://github.com/JuliaBinaryWrappers/PaStiX_jll.jl/releases/download/PaStiX-v6.3.0+0/PaStiX.v6.3.0.aarch64-apple-darwin-libgfortran5.tar.gz"
+    sha256 = "0bd22504c61f3732523e0b2e1b502200a9f54a8df5e6d193f368ec4f0d25db09"
+    url = "https://github.com/JuliaBinaryWrappers/PaStiX_jll.jl/releases/download/PaStiX-v6.3.2+0/PaStiX.v6.3.2.aarch64-apple-darwin-libgfortran5.tar.gz"
 [[PaStiX]]
 arch = "aarch64"
-git-tree-sha1 = "b88cdc53da1e30b260ad67bd3db77f84f44ed713"
+git-tree-sha1 = "28ba6d4546fea93c959c52ff63e91dfd34f58690"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[PaStiX.download]]
-    sha256 = "250f3ac668a39cd6869706f794128c19aab35b296c4d736aabbf56bbccbc05dc"
-    url = "https://github.com/JuliaBinaryWrappers/PaStiX_jll.jl/releases/download/PaStiX-v6.3.0+0/PaStiX.v6.3.0.aarch64-linux-gnu-libgfortran4.tar.gz"
+    sha256 = "ca6df9728ca94d48dddd8748e3642d89f3f0f588ea467293f4934c088db6345a"
+    url = "https://github.com/JuliaBinaryWrappers/PaStiX_jll.jl/releases/download/PaStiX-v6.3.2+0/PaStiX.v6.3.2.aarch64-linux-gnu-libgfortran4.tar.gz"
 [[PaStiX]]
 arch = "aarch64"
-git-tree-sha1 = "b9f2a19c92a60159bd0ddd74540d922fd48eea1b"
+git-tree-sha1 = "05f5d8d98d26e487304ae5c43096ca8f8be9a437"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[PaStiX.download]]
-    sha256 = "43c0877cbfe4cdf64f18f274f5e5c36b0ba0f40f88fa2a55ac626306e6fac532"
-    url = "https://github.com/JuliaBinaryWrappers/PaStiX_jll.jl/releases/download/PaStiX-v6.3.0+0/PaStiX.v6.3.0.aarch64-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "1e6c7a157f8cbc74599d906e460a07165ca946eace81180d04a9e257eb82dc0b"
+    url = "https://github.com/JuliaBinaryWrappers/PaStiX_jll.jl/releases/download/PaStiX-v6.3.2+0/PaStiX.v6.3.2.aarch64-linux-gnu-libgfortran5.tar.gz"
 [[PaStiX]]
 arch = "aarch64"
-git-tree-sha1 = "0ac6a80ada355a76f90e56838e025ed274b6d5a3"
+git-tree-sha1 = "3431687ebf41665e7dd3b27bf9c380f8ae382f77"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[PaStiX.download]]
-    sha256 = "b18123eaae923daae7fdfabef25fa89882130f5acad8739031c1d116e80fd563"
-    url = "https://github.com/JuliaBinaryWrappers/PaStiX_jll.jl/releases/download/PaStiX-v6.3.0+0/PaStiX.v6.3.0.aarch64-linux-musl-libgfortran4.tar.gz"
+    sha256 = "65b98d394d3aa225351119c0aacc8ad4cce4730a8e4003e1687fa428979f92a4"
+    url = "https://github.com/JuliaBinaryWrappers/PaStiX_jll.jl/releases/download/PaStiX-v6.3.2+0/PaStiX.v6.3.2.aarch64-linux-musl-libgfortran4.tar.gz"
 [[PaStiX]]
 arch = "aarch64"
-git-tree-sha1 = "bee4a063fca3d9afc0f6fb42fc999cb0f958be51"
+git-tree-sha1 = "c2d303a43e09346c933cf5b9ef20fa8eca71c142"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[PaStiX.download]]
-    sha256 = "c7e47a6d9acb0baaa4e9a9777ebf94914c2aefd3784ba5146d7ac2fa537090af"
-    url = "https://github.com/JuliaBinaryWrappers/PaStiX_jll.jl/releases/download/PaStiX-v6.3.0+0/PaStiX.v6.3.0.aarch64-linux-musl-libgfortran5.tar.gz"
+    sha256 = "c35bc1faf2b98261c282a56cb26661b5d354d95d3fbb9d7459986716e5e9eb17"
+    url = "https://github.com/JuliaBinaryWrappers/PaStiX_jll.jl/releases/download/PaStiX-v6.3.2+0/PaStiX.v6.3.2.aarch64-linux-musl-libgfortran5.tar.gz"
 [[PaStiX]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "e08f864cc043d38659b7c87f1c42c4efdededc4d"
+git-tree-sha1 = "a6752f29a4ccce2a6a6a69fe377289dc47324b80"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[PaStiX.download]]
-    sha256 = "eb500e645470de908dcaba02036aa6659d4b9943129fd3420d3820697fa041d8"
-    url = "https://github.com/JuliaBinaryWrappers/PaStiX_jll.jl/releases/download/PaStiX-v6.3.0+0/PaStiX.v6.3.0.armv6l-linux-gnueabihf-libgfortran4.tar.gz"
+    sha256 = "63c2949118b419562ed123b2e4f1f9df2dd264cd181e48b1c34066cef55542fb"
+    url = "https://github.com/JuliaBinaryWrappers/PaStiX_jll.jl/releases/download/PaStiX-v6.3.2+0/PaStiX.v6.3.2.armv6l-linux-gnueabihf-libgfortran4.tar.gz"
 [[PaStiX]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "727b09f3ec74de119b9bdf4563a129e1fbaf6dbf"
+git-tree-sha1 = "8cd0cea891894a9d488538d7f2f10286404e13f7"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[PaStiX.download]]
-    sha256 = "95ee935ac074dc44e73f6ce9c5e2003bdaefeeca03c0780c0de14b29f5ef9797"
-    url = "https://github.com/JuliaBinaryWrappers/PaStiX_jll.jl/releases/download/PaStiX-v6.3.0+0/PaStiX.v6.3.0.armv6l-linux-gnueabihf-libgfortran5.tar.gz"
+    sha256 = "2e2b818a01fe96e2331f126b43a850df726076428d31ec2d120f950f1f4dcc18"
+    url = "https://github.com/JuliaBinaryWrappers/PaStiX_jll.jl/releases/download/PaStiX-v6.3.2+0/PaStiX.v6.3.2.armv6l-linux-gnueabihf-libgfortran5.tar.gz"
 [[PaStiX]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "7a0513e61dcc5f87cbeb9aae9d7073d309992f42"
+git-tree-sha1 = "162f531109480af19300aaa92b7dd112314f0bb2"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[PaStiX.download]]
-    sha256 = "5bb6dd0dc24b03a58614190acaff0582c5417a971518d335461c13b61dd70119"
-    url = "https://github.com/JuliaBinaryWrappers/PaStiX_jll.jl/releases/download/PaStiX-v6.3.0+0/PaStiX.v6.3.0.armv6l-linux-musleabihf-libgfortran4.tar.gz"
+    sha256 = "c7cdeb4df14de5fb2f14ceed44058aa4cab24a80702fc1a8e9c6899157477738"
+    url = "https://github.com/JuliaBinaryWrappers/PaStiX_jll.jl/releases/download/PaStiX-v6.3.2+0/PaStiX.v6.3.2.armv6l-linux-musleabihf-libgfortran4.tar.gz"
 [[PaStiX]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "df75c223e03691c9a03c74cc6198ed4e2ed702af"
+git-tree-sha1 = "b7ca776277046174a83a432e771af0279c54f81c"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[PaStiX.download]]
-    sha256 = "45c190a011fe0f40d36d6644bb4aa60ece82b1b76ac74bb988e88708b4c7943f"
-    url = "https://github.com/JuliaBinaryWrappers/PaStiX_jll.jl/releases/download/PaStiX-v6.3.0+0/PaStiX.v6.3.0.armv6l-linux-musleabihf-libgfortran5.tar.gz"
+    sha256 = "c7309d9627cf99afafaeba4f7524c1439e59e8ed608c5cc83ab0bccad9a71208"
+    url = "https://github.com/JuliaBinaryWrappers/PaStiX_jll.jl/releases/download/PaStiX-v6.3.2+0/PaStiX.v6.3.2.armv6l-linux-musleabihf-libgfortran5.tar.gz"
 [[PaStiX]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "a63257ec9ac51b567e6ae3713789cc0792afb6e2"
+git-tree-sha1 = "19d86102861ea0cc7370e4c52582ed957caf6465"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[PaStiX.download]]
-    sha256 = "8772b2b586ed54f2d06f4c54ebb77a46c4bd0cf0bd6f567d0c87d7a8750902c8"
-    url = "https://github.com/JuliaBinaryWrappers/PaStiX_jll.jl/releases/download/PaStiX-v6.3.0+0/PaStiX.v6.3.0.armv7l-linux-gnueabihf-libgfortran4.tar.gz"
+    sha256 = "3bffc19fe5236e468328158be4a35faa2308866a995cc8060cbaf7d733200f58"
+    url = "https://github.com/JuliaBinaryWrappers/PaStiX_jll.jl/releases/download/PaStiX-v6.3.2+0/PaStiX.v6.3.2.armv7l-linux-gnueabihf-libgfortran4.tar.gz"
 [[PaStiX]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "99ce9ece54ac7a93d09fc43b782288ea3f588607"
+git-tree-sha1 = "5e3eff7d414fad10a81044db4765d53985a2d271"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[PaStiX.download]]
-    sha256 = "67b164d6877de9aabeea0cde2624a8ca6fc33701e5420070fa1b95f5e7b1c22b"
-    url = "https://github.com/JuliaBinaryWrappers/PaStiX_jll.jl/releases/download/PaStiX-v6.3.0+0/PaStiX.v6.3.0.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
+    sha256 = "a0332d3a07563d2b6b91dd2da20adc40444ed50eb572a4abb1b3102a54baa643"
+    url = "https://github.com/JuliaBinaryWrappers/PaStiX_jll.jl/releases/download/PaStiX-v6.3.2+0/PaStiX.v6.3.2.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
 [[PaStiX]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "9b56ab313f84ac664478ff5702cdc98640236bc2"
+git-tree-sha1 = "df059520164adb926e84f3399cbca068f16aabfc"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[PaStiX.download]]
-    sha256 = "4c34d1e94ce05859f0b044d9b9c07c4f9c3befecf952b61a9d0fd898334e6bda"
-    url = "https://github.com/JuliaBinaryWrappers/PaStiX_jll.jl/releases/download/PaStiX-v6.3.0+0/PaStiX.v6.3.0.armv7l-linux-musleabihf-libgfortran4.tar.gz"
+    sha256 = "1d42181c4598a5c4bb5e8409cccc75f3f30fe9a4d5c0cb4fec01d8878a30574f"
+    url = "https://github.com/JuliaBinaryWrappers/PaStiX_jll.jl/releases/download/PaStiX-v6.3.2+0/PaStiX.v6.3.2.armv7l-linux-musleabihf-libgfortran4.tar.gz"
 [[PaStiX]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "4919168dbc6a458f6ce256973bfdb9c4e9015f73"
+git-tree-sha1 = "d72c32cef8ce2314f3a9da5c59995c348d20df75"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[PaStiX.download]]
-    sha256 = "e685b0cd4632a4f6d7ed175d964d1fbe7fe2ad801226ecce6c1045598aebd010"
-    url = "https://github.com/JuliaBinaryWrappers/PaStiX_jll.jl/releases/download/PaStiX-v6.3.0+0/PaStiX.v6.3.0.armv7l-linux-musleabihf-libgfortran5.tar.gz"
+    sha256 = "a5a22975b61c1a326a0919b39a1c266c63927017f05586070410a9a0bc0448fb"
+    url = "https://github.com/JuliaBinaryWrappers/PaStiX_jll.jl/releases/download/PaStiX-v6.3.2+0/PaStiX.v6.3.2.armv7l-linux-musleabihf-libgfortran5.tar.gz"
 [[PaStiX]]
 arch = "i686"
-git-tree-sha1 = "cab7f8354089c74cd04358f85af76e827e10c29c"
+git-tree-sha1 = "3cfa6679e67bb6a670f48c7e12f8accf7c4f548d"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[PaStiX.download]]
-    sha256 = "817c46015f1125ef0e44f7280b29b08c6575ce4eb7e962f3ce89550909c395b3"
-    url = "https://github.com/JuliaBinaryWrappers/PaStiX_jll.jl/releases/download/PaStiX-v6.3.0+0/PaStiX.v6.3.0.i686-linux-gnu-libgfortran4.tar.gz"
+    sha256 = "7423d269e3286320e7780f7f1b05e8a463fbe114cf7ecfc3fb9437e8198b875f"
+    url = "https://github.com/JuliaBinaryWrappers/PaStiX_jll.jl/releases/download/PaStiX-v6.3.2+0/PaStiX.v6.3.2.i686-linux-gnu-libgfortran4.tar.gz"
 [[PaStiX]]
 arch = "i686"
-git-tree-sha1 = "c093c69e2dab224477c51daa8caf20b681a26bd8"
+git-tree-sha1 = "970c375ab5670e6f48f8560dccdc451fbeb8bb6b"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[PaStiX.download]]
-    sha256 = "e3ffc7a2d17ea97a29cb25fb7a2050c3b6f72569bf67bd2cd88ac359916eb0e1"
-    url = "https://github.com/JuliaBinaryWrappers/PaStiX_jll.jl/releases/download/PaStiX-v6.3.0+0/PaStiX.v6.3.0.i686-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "a5bc9387322ebd44382e5c964775964d313e87f0eb315f32730bb7a7c4bc76c9"
+    url = "https://github.com/JuliaBinaryWrappers/PaStiX_jll.jl/releases/download/PaStiX-v6.3.2+0/PaStiX.v6.3.2.i686-linux-gnu-libgfortran5.tar.gz"
 [[PaStiX]]
 arch = "i686"
-git-tree-sha1 = "2d4f63c064b47eb60bf432de1f303ab2c8f6521f"
+git-tree-sha1 = "02117cdb019a71bd6a3e5271d920dd8707208619"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[PaStiX.download]]
-    sha256 = "815e5593aefcf2b28e84641c27edc1b7c7b5dcf3043c1f4533a7286dfd213493"
-    url = "https://github.com/JuliaBinaryWrappers/PaStiX_jll.jl/releases/download/PaStiX-v6.3.0+0/PaStiX.v6.3.0.i686-linux-musl-libgfortran4.tar.gz"
+    sha256 = "17e8cf378acc6846e5eb76cd1f2bb7d7f588d5ab095c6f47cdc583c2c313cc68"
+    url = "https://github.com/JuliaBinaryWrappers/PaStiX_jll.jl/releases/download/PaStiX-v6.3.2+0/PaStiX.v6.3.2.i686-linux-musl-libgfortran4.tar.gz"
 [[PaStiX]]
 arch = "i686"
-git-tree-sha1 = "ab2ecd4a21424dc73a650cc54d29a66029c93ded"
+git-tree-sha1 = "bc5173723aad6f2518d165cda6528e16d1468f8b"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[PaStiX.download]]
-    sha256 = "159dd4d4b841c03052744064731cd1a5d2da8512143eb3154fb061912b0a08b8"
-    url = "https://github.com/JuliaBinaryWrappers/PaStiX_jll.jl/releases/download/PaStiX-v6.3.0+0/PaStiX.v6.3.0.i686-linux-musl-libgfortran5.tar.gz"
+    sha256 = "be79c72967af0c7c1c2568b5422d1699ea934215550ef20d0b28d9e92ca5ebb1"
+    url = "https://github.com/JuliaBinaryWrappers/PaStiX_jll.jl/releases/download/PaStiX-v6.3.2+0/PaStiX.v6.3.2.i686-linux-musl-libgfortran5.tar.gz"
 [[PaStiX]]
 arch = "i686"
-git-tree-sha1 = "a4d870100920e3cd001f4ec5a173400c523f462f"
+git-tree-sha1 = "c118ef937e2bd3293e97b7f168c15b8addb6b25a"
 libgfortran_version = "4.0.0"
 os = "windows"
 
     [[PaStiX.download]]
-    sha256 = "ada0ad02f5356f042b54d8cbe544eb494aa320d477fd7950bcb59a46375885ec"
-    url = "https://github.com/JuliaBinaryWrappers/PaStiX_jll.jl/releases/download/PaStiX-v6.3.0+0/PaStiX.v6.3.0.i686-w64-mingw32-libgfortran4.tar.gz"
+    sha256 = "26531bc35044e37dbe7ba0a072dd448af9948e58b1da85e10bc1cb96284944ff"
+    url = "https://github.com/JuliaBinaryWrappers/PaStiX_jll.jl/releases/download/PaStiX-v6.3.2+0/PaStiX.v6.3.2.i686-w64-mingw32-libgfortran4.tar.gz"
 [[PaStiX]]
 arch = "i686"
-git-tree-sha1 = "15165d41bc48f0c61e639ca3ddccba4a0eef55fe"
+git-tree-sha1 = "3c8d23cd8176515806ee5f47c89c98d8d9f0b4ac"
 libgfortran_version = "5.0.0"
 os = "windows"
 
     [[PaStiX.download]]
-    sha256 = "3e72b4ccfa6909440b4fa3cd309bf919a456fd8f2566a981290b0f93db24b188"
-    url = "https://github.com/JuliaBinaryWrappers/PaStiX_jll.jl/releases/download/PaStiX-v6.3.0+0/PaStiX.v6.3.0.i686-w64-mingw32-libgfortran5.tar.gz"
+    sha256 = "47af681d77cede1019ebf3c5b8aedf8b9c50e1c7fc4a3f81121a661611c82eab"
+    url = "https://github.com/JuliaBinaryWrappers/PaStiX_jll.jl/releases/download/PaStiX-v6.3.2+0/PaStiX.v6.3.2.i686-w64-mingw32-libgfortran5.tar.gz"
 [[PaStiX]]
 arch = "powerpc64le"
-git-tree-sha1 = "d158c5fadde25a91af5ef3c4e36fba1d9bd25c96"
+git-tree-sha1 = "f84ca0b653a12ea51b35a5cc27f8af00ec23ed73"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[PaStiX.download]]
-    sha256 = "8933b3cbc02e6a622a27793161f341c26d45a36d7f340d7c9432ea875dfb09f2"
-    url = "https://github.com/JuliaBinaryWrappers/PaStiX_jll.jl/releases/download/PaStiX-v6.3.0+0/PaStiX.v6.3.0.powerpc64le-linux-gnu-libgfortran4.tar.gz"
+    sha256 = "e42bffad05b58d4d589073666e21e9078185cc9aad777005743d3cb7f3803b82"
+    url = "https://github.com/JuliaBinaryWrappers/PaStiX_jll.jl/releases/download/PaStiX-v6.3.2+0/PaStiX.v6.3.2.powerpc64le-linux-gnu-libgfortran4.tar.gz"
 [[PaStiX]]
 arch = "powerpc64le"
-git-tree-sha1 = "baa7ac6aa828665a509e6621bfd702fd10793c40"
+git-tree-sha1 = "4993c6e99cce1f64443721bfc21fc620b58edf9e"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[PaStiX.download]]
-    sha256 = "96c2c001eaa95c3e056b0b668f8b3532b22f6ca6b402e356b489a54b990c5ab1"
-    url = "https://github.com/JuliaBinaryWrappers/PaStiX_jll.jl/releases/download/PaStiX-v6.3.0+0/PaStiX.v6.3.0.powerpc64le-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "1db5635e744f27916dd70930fc61a9ca9900b2da6e29bddaaf5c6b9557fc2acf"
+    url = "https://github.com/JuliaBinaryWrappers/PaStiX_jll.jl/releases/download/PaStiX-v6.3.2+0/PaStiX.v6.3.2.powerpc64le-linux-gnu-libgfortran5.tar.gz"
 [[PaStiX]]
 arch = "x86_64"
-git-tree-sha1 = "7dc5b33d132206fb001914567338907a675b8793"
+git-tree-sha1 = "a134ff49505758d6f5629029baadeed557df1d10"
 libgfortran_version = "4.0.0"
 os = "macos"
 
     [[PaStiX.download]]
-    sha256 = "7a50ca0e55f9ad3b4027ad5763cedc83d768debacc5abd16cf0b25673702ba9e"
-    url = "https://github.com/JuliaBinaryWrappers/PaStiX_jll.jl/releases/download/PaStiX-v6.3.0+0/PaStiX.v6.3.0.x86_64-apple-darwin-libgfortran4.tar.gz"
+    sha256 = "de87522dd69f10f1ed83b3158d9546d56c389e279576e46ef5ef0597620118d1"
+    url = "https://github.com/JuliaBinaryWrappers/PaStiX_jll.jl/releases/download/PaStiX-v6.3.2+0/PaStiX.v6.3.2.x86_64-apple-darwin-libgfortran4.tar.gz"
 [[PaStiX]]
 arch = "x86_64"
-git-tree-sha1 = "a1e8ec017f5507850aea84a09133890f81d4b7dc"
+git-tree-sha1 = "ced70977df76ddf449915d6b886e6675cf3a829e"
 libgfortran_version = "5.0.0"
 os = "macos"
 
     [[PaStiX.download]]
-    sha256 = "d503da55892c4bf262cf0b25f261421976f1373ae92480b1683f53ee2fad4688"
-    url = "https://github.com/JuliaBinaryWrappers/PaStiX_jll.jl/releases/download/PaStiX-v6.3.0+0/PaStiX.v6.3.0.x86_64-apple-darwin-libgfortran5.tar.gz"
+    sha256 = "ec08a1bdaf3071f2ce7e5140a086aaa649481869c2f97d1ac9ebbdd4811f3bfb"
+    url = "https://github.com/JuliaBinaryWrappers/PaStiX_jll.jl/releases/download/PaStiX-v6.3.2+0/PaStiX.v6.3.2.x86_64-apple-darwin-libgfortran5.tar.gz"
 [[PaStiX]]
 arch = "x86_64"
-git-tree-sha1 = "441faced9656757a99f21badf7359fc38aeb53fe"
+git-tree-sha1 = "a118fecc507ccae32b8c4c4abb7aa70b8b0d2849"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[PaStiX.download]]
-    sha256 = "fa6a342d2ad915f6f6de69fe43fe0c2cb6a4dc85ec644d05ccb582ccecbedff9"
-    url = "https://github.com/JuliaBinaryWrappers/PaStiX_jll.jl/releases/download/PaStiX-v6.3.0+0/PaStiX.v6.3.0.x86_64-linux-gnu-libgfortran4.tar.gz"
+    sha256 = "848b47bfacb513e0f92f3956579bd0bf8ff7708ba1151b00639706cf81c3718c"
+    url = "https://github.com/JuliaBinaryWrappers/PaStiX_jll.jl/releases/download/PaStiX-v6.3.2+0/PaStiX.v6.3.2.x86_64-linux-gnu-libgfortran4.tar.gz"
 [[PaStiX]]
 arch = "x86_64"
-git-tree-sha1 = "4fd5bd73596a40c5742dc1745e3f800f30364e27"
+git-tree-sha1 = "fc8721837deb6df9009be9c9a5a34aba0cfeec7a"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[PaStiX.download]]
-    sha256 = "f81528718350a57973fa415d5c551fd8c246af490b45eeb2ab447fbfe5993ec7"
-    url = "https://github.com/JuliaBinaryWrappers/PaStiX_jll.jl/releases/download/PaStiX-v6.3.0+0/PaStiX.v6.3.0.x86_64-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "fe487ca7890bdfceb1d2489c2909db02e69f65f81c84c8a1ff29515f3b8d2d5b"
+    url = "https://github.com/JuliaBinaryWrappers/PaStiX_jll.jl/releases/download/PaStiX-v6.3.2+0/PaStiX.v6.3.2.x86_64-linux-gnu-libgfortran5.tar.gz"
 [[PaStiX]]
 arch = "x86_64"
-git-tree-sha1 = "acabcc4fd742260ab1f809ad0c30040e71aeacd8"
+git-tree-sha1 = "9f3c00a09cf1b7be86fcbc4f31ecc4a3a1519fbb"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[PaStiX.download]]
-    sha256 = "25ea3bb401627c10d059d86ad8b0960fd3c7a4ed92cbe5d7c2d5be07cf2500b9"
-    url = "https://github.com/JuliaBinaryWrappers/PaStiX_jll.jl/releases/download/PaStiX-v6.3.0+0/PaStiX.v6.3.0.x86_64-linux-musl-libgfortran4.tar.gz"
+    sha256 = "198900b6a8e2efdbba8c02cc08b8435281c0b17366f3d42eaa302dafda2fadc9"
+    url = "https://github.com/JuliaBinaryWrappers/PaStiX_jll.jl/releases/download/PaStiX-v6.3.2+0/PaStiX.v6.3.2.x86_64-linux-musl-libgfortran4.tar.gz"
 [[PaStiX]]
 arch = "x86_64"
-git-tree-sha1 = "886bec6048a42c7ca82c5c9d50daed9d5948e726"
+git-tree-sha1 = "b5f00e1fd8bb758ee98f2d9d65bcfe0b7329ddef"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[PaStiX.download]]
-    sha256 = "935b1b99c2fec94d17e9819cb92b1834daf6de66a8ff6da9fbf1b5cbe5f1d4bc"
-    url = "https://github.com/JuliaBinaryWrappers/PaStiX_jll.jl/releases/download/PaStiX-v6.3.0+0/PaStiX.v6.3.0.x86_64-linux-musl-libgfortran5.tar.gz"
+    sha256 = "7445ff83a205060d425054f89cdb77b3aa00a44bd45b230cddd2458b9ef115cf"
+    url = "https://github.com/JuliaBinaryWrappers/PaStiX_jll.jl/releases/download/PaStiX-v6.3.2+0/PaStiX.v6.3.2.x86_64-linux-musl-libgfortran5.tar.gz"
 [[PaStiX]]
 arch = "x86_64"
-git-tree-sha1 = "09d91e9bf183211a2963e80717a92c607c6d1e71"
+git-tree-sha1 = "f7946d1a24ec3b64aa1b90713c5e45e2c40750e3"
 libgfortran_version = "4.0.0"
 os = "freebsd"
 
     [[PaStiX.download]]
-    sha256 = "9f9c74703e95be817d47c27b63eaebe452cc4709a907044a5858773609a99333"
-    url = "https://github.com/JuliaBinaryWrappers/PaStiX_jll.jl/releases/download/PaStiX-v6.3.0+0/PaStiX.v6.3.0.x86_64-unknown-freebsd-libgfortran4.tar.gz"
+    sha256 = "a482094b73702d5770055f90dc8802050ebc163a27fb37656d8417cd8b9954a0"
+    url = "https://github.com/JuliaBinaryWrappers/PaStiX_jll.jl/releases/download/PaStiX-v6.3.2+0/PaStiX.v6.3.2.x86_64-unknown-freebsd-libgfortran4.tar.gz"
 [[PaStiX]]
 arch = "x86_64"
-git-tree-sha1 = "5266384ca0227692f04b87d0647a8021366ed0f2"
+git-tree-sha1 = "187d844c32c62c87a0a0ddd5b5952ac749285238"
 libgfortran_version = "5.0.0"
 os = "freebsd"
 
     [[PaStiX.download]]
-    sha256 = "c77a40797a19ecb17fd089d6fbfe26133e860b2c03167e9e7420e80fa24d8bfc"
-    url = "https://github.com/JuliaBinaryWrappers/PaStiX_jll.jl/releases/download/PaStiX-v6.3.0+0/PaStiX.v6.3.0.x86_64-unknown-freebsd-libgfortran5.tar.gz"
+    sha256 = "ea4aad9b5d8d64c5708d4571605eedca3859d5c5fa5888c7fe2290537670ae73"
+    url = "https://github.com/JuliaBinaryWrappers/PaStiX_jll.jl/releases/download/PaStiX-v6.3.2+0/PaStiX.v6.3.2.x86_64-unknown-freebsd-libgfortran5.tar.gz"
 [[PaStiX]]
 arch = "x86_64"
-git-tree-sha1 = "0a6e4f111285d730971e72234f4b6cac252f55b8"
+git-tree-sha1 = "a2f4f0644135be1811a756ccae8c2932ff138664"
 libgfortran_version = "4.0.0"
 os = "windows"
 
     [[PaStiX.download]]
-    sha256 = "d0b2b26e1462e5018cd33e5f0cc9c66dd6b124da1b7d442e7fe2eaedfe5b15c2"
-    url = "https://github.com/JuliaBinaryWrappers/PaStiX_jll.jl/releases/download/PaStiX-v6.3.0+0/PaStiX.v6.3.0.x86_64-w64-mingw32-libgfortran4.tar.gz"
+    sha256 = "0f2c024f64251c80d3c0618b2ded9d8291f7a8d14d0d0864f5d4b7074c91f1c0"
+    url = "https://github.com/JuliaBinaryWrappers/PaStiX_jll.jl/releases/download/PaStiX-v6.3.2+0/PaStiX.v6.3.2.x86_64-w64-mingw32-libgfortran4.tar.gz"
 [[PaStiX]]
 arch = "x86_64"
-git-tree-sha1 = "970719b8ce8d9fd947a431132a5842158b9c4836"
+git-tree-sha1 = "2a10b93af04e644720681203ff33b06dcca6840e"
 libgfortran_version = "5.0.0"
 os = "windows"
 
     [[PaStiX.download]]
-    sha256 = "611ba9f8f55d5cec270740111fe6de9ef08c7de6a6543cc5402cd183f2b9a3bf"
-    url = "https://github.com/JuliaBinaryWrappers/PaStiX_jll.jl/releases/download/PaStiX-v6.3.0+0/PaStiX.v6.3.0.x86_64-w64-mingw32-libgfortran5.tar.gz"
+    sha256 = "a7538b9d3f2bc114fc6a6dc9b22422f471808170140b6318114f77ea9813f729"
+    url = "https://github.com/JuliaBinaryWrappers/PaStiX_jll.jl/releases/download/PaStiX-v6.3.2+0/PaStiX.v6.3.2.x86_64-w64-mingw32-libgfortran5.tar.gz"
