@@ -7,33 +7,33 @@ using SCOTCH_jll
 using Hwloc_jll
 using libblastrampoline_jll
 JLLWrappers.@generate_wrapper_header("PaStiX")
-JLLWrappers.@declare_library_product(libpastix, "@rpath/libpastix.dylib")
-JLLWrappers.@declare_library_product(libpastixf, "@rpath/libpastixf.dylib")
-JLLWrappers.@declare_library_product(libspm, "@rpath/libspm.dylib")
-JLLWrappers.@declare_library_product(libspmf, "@rpath/libspmf.dylib")
+JLLWrappers.@declare_library_product(libpastix, "@rpath/libpastix.6.4.dylib")
+JLLWrappers.@declare_library_product(libpastixf, "@rpath/libpastixf.6.dylib")
+JLLWrappers.@declare_library_product(libspm, "@rpath/libspm.1.dylib")
+JLLWrappers.@declare_library_product(libspmf, "@rpath/libspmf.1.dylib")
 function __init__()
     JLLWrappers.@generate_init_header(CompilerSupportLibraries_jll, METIS_jll, SCOTCH_jll, Hwloc_jll, libblastrampoline_jll)
     JLLWrappers.@init_library_product(
         libpastix,
-        "lib/libpastix.dylib",
+        "lib/libpastix.6.4.0.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libpastixf,
-        "lib/libpastixf.dylib",
+        "lib/libpastixf.6.4.0.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libspm,
-        "lib/libspm.dylib",
+        "lib/libspm.1.2.4.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libspmf,
-        "lib/libspmf.dylib",
+        "lib/libspmf.1.2.4.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 

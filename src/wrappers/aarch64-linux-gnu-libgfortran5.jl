@@ -7,10 +7,10 @@ using SCOTCH_jll
 using Hwloc_jll
 using libblastrampoline_jll
 JLLWrappers.@generate_wrapper_header("PaStiX")
-JLLWrappers.@declare_library_product(libpastix, "libpastix.so")
-JLLWrappers.@declare_library_product(libpastixf, "libpastixf.so")
-JLLWrappers.@declare_library_product(libspm, "libspm.so")
-JLLWrappers.@declare_library_product(libspmf, "libspmf.so")
+JLLWrappers.@declare_library_product(libpastix, "libpastix.so.6.4")
+JLLWrappers.@declare_library_product(libpastixf, "libpastixf.so.6")
+JLLWrappers.@declare_library_product(libspm, "libspm.so.1")
+JLLWrappers.@declare_library_product(libspmf, "libspmf.so.1")
 function __init__()
     JLLWrappers.@generate_init_header(CompilerSupportLibraries_jll, METIS_jll, SCOTCH_jll, Hwloc_jll, libblastrampoline_jll)
     JLLWrappers.@init_library_product(
